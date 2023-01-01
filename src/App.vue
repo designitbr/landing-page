@@ -3,9 +3,11 @@
     <div
       class="absolute top-0 w-full h-full bg-forest bg-center bg-cover z-0 bg-overlay" />
     <div
-      class="flex flex-col md:flex-row md:space-x-8 z-10 items-center space-y-6 px-2 md:px-0">
-      <img src="./assets/design-it-logo.svg" class="-mt-20 md:mt-0  w-[200px] logo" />
-      <div class="flex flex-col items-center text-white relative">
+      class="flex flex-col md:flex-row md:space-x-10 z-10 items-center space-y-6 px-2 md:px-0">
+      <img
+        src="./assets/design-it-logo.svg"
+        class="-mt-20 md:mt-0 w-[250px] logo" />
+      <div class="flex flex-col space-y-6 items-center text-white relative">
         <div
           class="font-oleoscript text-7xl md:text-9xl drop-shadow-[0_4px_4px_rgba(0,0,0,0.5)] leading-tight md:leading-none title">
           Design IT
