@@ -33,4 +33,9 @@
     font-weight: 400;
     src: url('./fonts/BillionDreams_PERSONAL.ttf') format('truetype');
   }
+  @font-face {
+    font-family: 'OleoScript';
+    font-weight: 400;
+    src: url('./fonts/OleoScript-Regular.ttf') format('truetype');
+  }
 }
