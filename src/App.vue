@@ -13,8 +13,8 @@
           Design IT
         </div>
         <div
-          class="text-white/90 font-orbitron tracking-wider text-[18px] md:text-[28px] drop-shadow-[0_4px_4px_rgba(0,0,0,0.5)] subtitle">
-          Design e Engenharia Digital
+          class="text-white/90 font-orbitron tracking-wider text-[18px] md:text-[28px] drop-shadow-[0_4px_4px_rgba(0,0,0,0.5)] subtitle text-center">
+          Design, Marketing e Engenharia Digital
         </div>
         <div
           class="absolute bottom-[-80px] right-0 font-billiondreams text-[#FBFF48] text-[35px] md:text-[50px] tracking-wide rotate-[-12deg] drop-shadow-[0_4px_4px_rgba(0,0,0,0.5)] commingsoon">
